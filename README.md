@@ -34,16 +34,5 @@ The purpose of these simulations and lectures is to give students a deeper under
 - **Day1_Ising_Simulation:** Contains the source code for simulating the 2D Ising model and scripts for identifying phases and phase transitions.
 - **Day2_TSP_GA:** Contains code for the genetic algorithm to solve the TSP problem.
 
-
-## More about this program
-
-Chung-Ang University Center for Berry Curvature-based New Phenonmena: 
-https://becap-src.cau.ac.kr/
-
-Chung-Ang University Quantum Statistics Theory Group:
-https://sites.google.com/view/kunx/home
-
-[Quantum_Statistics_Theory_Group_SRC_summer_2024.pdf](https://github.com/user-attachments/files/16115070/Quantum_Statistics_Theory_Group_SRC_summer_2024.pdf)
-
 ## Note
 If you need lecture note for Day 2, please email me. chadsong123@gmail.com
